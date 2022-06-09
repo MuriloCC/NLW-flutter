@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "287254342524",
+    "project_id": "payflow-muras",
+    "storage_bucket": "payflow-muras.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287254342524:android:cd51b448833f38b98792f9",
+        "android_client_info": {
+          "package_name": "com.example.nlw_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287254342524-ngboe7vs73hj4ut5jj8k84tblqlu56s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nlw_flutter",
+            "certificate_hash": "da515616f934923b2b7e3e1ee41020f926cc0457"
+          }
+        },
+        {
+          "client_id": "287254342524-u674je6tbfe3uh3d8et07qbop926ttj9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBea66rdvz8M-gGKiKM6anSpwLnMxOhrjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287254342524-u674je6tbfe3uh3d8et07qbop926ttj9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
